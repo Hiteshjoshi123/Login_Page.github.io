@@ -1,0 +1,70 @@
+#container1{
+    display:flex;
+    width:fit-content;
+    height:fit-content;
+    padding:10px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#first_div{
+    max-width: 550px;
+    min-width:400px;
+    height: auto;
+    margin-right: 40px;
+}
+#welcome{
+    font-size: 40px;
+    font-weight: bold;
+    color:#1877f2;
+}
+#word{
+    font-size: 25px;
+}
+.container{
+    box-shadow: 2px 2px 5px black;
+    margin-top: 100px;
+    max-width: 350px;
+    min-width: 300px;
+}
+.container {
+    padding: 16px;
+    max-width: 300px;
+  }
+    span{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    input[type=text], input[type=password] {
+      width: 80%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      border-radius: 5px;
+    }
+    
+    button {
+      background-color:#1877f2;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+      font-size: 20px;
+      border-radius: 5px;
+    }
+    
+    button:hover {
+      opacity: 0.8;
+    }
+    .small_line{
+        padding:20px;
+    }
+    
+    
